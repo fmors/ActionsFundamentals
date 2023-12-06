@@ -5,6 +5,7 @@ inputs:
     default: world
 outputs:
   time: 
+    description: Time we said hello
 runs:
   using: docker
   image: Dockerfile
